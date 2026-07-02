@@ -2,9 +2,11 @@
 
 Welcome to the official page of my Unity game!
 
+👉 **[PLAY THE GAME HERE](https://mustafahayal13-eng.github.io/Cheops-IT-Defender/)**
 ---
+## 📸 Screenshots
 <img width="1892" height="1039" alt="image" src="https://github.com/user-attachments/assets/f9f3f51b-8689-4d76-8c17-33bd903296cf" />
-
+---
 ## 🕹️ Controls / How to Play
 
 Use the following keyboard shortcuts to control your character:
@@ -15,4 +17,7 @@ Use the following keyboard shortcuts to control your character:
 * **Dash:** Press the `Shift` key
 
 ---
+## 🛠️ Technologies Used
+*   **Engine:** Unity 6
+*   **Deployment:** GitHub Pages (WebGL)
 *Developed with Unity 6. Thanks for playing and have fun!*
